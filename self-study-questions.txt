@@ -1,16 +1,16 @@
-1.If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 I would say that semantic HTML is the practice of creating clean and clear code that is easy to read by the machine and many other site engines 
 For example : Header, Section ,Body and Footer.
 
-Name two big differences between display: block; and display: inline;
+2. Name two big differences between display: block; and display: inline;
 inline allows you to fill up the entire space that is given horizontally and with block it only allows you to fill up as much space is needed to display that data is given
 
-What are the 4 areas of the box model?
+3. What are the 4 areas of the box model?
 The 4 areas of box model Margin, Border, Padding, and Content.
 
-While using flexbox, what axis does the following property work on: align-items: center?
+4.While using flexbox, what axis does the following property work on: align-items: center?
 Cross-axis.
 
-Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers.
 Git is valuable to the developers because it helps to easily access from anywhere around the world
 and it helps them to modify any project the team has been working on.  
